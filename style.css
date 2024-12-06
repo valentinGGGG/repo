@@ -1,0 +1,16 @@
+*{
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 700;
+    color: greenyellow;
+}
+
+h3{
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 700;
+    color: greenyellow;
+}
+body{
+    background: linear-gradient(to right, blue, green, yellow);
+}
