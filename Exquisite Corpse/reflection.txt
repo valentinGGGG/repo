@@ -1,0 +1,11 @@
+Partners - Felix and Asa
+
+Process - My design process for my character started off as wanting to make a cute penguin character in illustrator, and I ended up with the robo-penguin guy that I have attached in the files. The character wasn't too hard to make but I knew going in that I wanted an illustrator file so I could do an SVG conversion, making it easier for recreation within P5.
+
+Sketches and background stories - I have the sketches attached on the left, named ; asa_body.jpg and dsadadada.jpg(thats the file name I recieved lol)
+
+the background story I recieved is linked as another txt file on the left, and Its quite long.
+
+For my new background story I came up with - What was once a world filled with autonomous free creatures, living their own lives, has now been taken over by a species of materialistic alien scientists, wanting to forge new hybrids of creatures that could be sold as rare novelties. This was one of the first prototypes produced causing for the free living creatures to go into hiding.
+
+Assignment reflection - I enjoyed creating a character and was glad I was able to learn how to fully do the SVG to P5 conversion, as Its something I've wanted to do since you first brought it up in class. I also was able to better understand making simple functions like for the ellipses of the head, which was helpful.  I think this assignment was a bit wonky I mean as far as literal aesthetics and some communication issues lol. But all in all I was able to practice new stuff and It was fun to see everyones characters!
